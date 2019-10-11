@@ -84,7 +84,7 @@ int main(){
 char board[9]={'1','2','3','4','5','6','7','8','9'};
 
 update:
-system("cls");
+system("clear");
 for(int i=0;i<9;i++){
 if((i==3)||(i==6))
 printf("\n\n");
